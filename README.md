@@ -13,9 +13,9 @@ Make sure you have the following installed on your system:
 ### Clone and run the application
 
 ```
-git clone https://github.com/parsimeikoikai/birdhouseAPI
+git clone https://github.com/parsimeikoikai/birdhouse-API.git
 
-cd birdhouseAPI
+cd birdhouse-API
 
 npm install
 
